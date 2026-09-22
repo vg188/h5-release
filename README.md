@@ -1,6 +1,6 @@
 # h5-release
 
-Official product sites and landing pages. Deployed with **Cloudflare Pages** → `https://h.yourba.top`
+Official product sites and landing pages.
 
 ## Layout
 
