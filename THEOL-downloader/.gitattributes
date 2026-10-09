@@ -1,0 +1,2 @@
+# Generated assets must retain exact bytes, including PDF serialization strings.
+* -text -whitespace

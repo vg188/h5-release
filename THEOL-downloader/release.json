@@ -1,0 +1,14 @@
+{
+  "version": "2.6.1",
+  "builtAt": "2026-10-09",
+  "extension": {
+    "file": "downloads/buct-course-downloader.zip",
+    "bytes": 752453,
+    "sha256": "26f883ee05ac9e3457ed59c2a492929a6e9612b8b33f4b2f1f30f6266cee1c06"
+  },
+  "bookmarklet": {
+    "file": "bookmarklet.txt",
+    "version": "2.6.1"
+  },
+  "repository": "https://github.com/vg188/THEOL-downloader"
+}
